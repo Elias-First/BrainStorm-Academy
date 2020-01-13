@@ -128,12 +128,12 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: #00cc33;
+  background: #fff;
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
+  box-shadow: 1px 1px 10px;
 }
-
 #header #logo {
   float: left;
 }
